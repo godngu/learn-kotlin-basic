@@ -1,4 +1,4 @@
-package chap02
+package chapter02
 
 fun fizzBuzz(i: Int) = when {
     i % 15 == 0 -> "FizzBuzz "

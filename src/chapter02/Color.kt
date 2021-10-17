@@ -1,4 +1,4 @@
-package chap02
+package chapter02
 
 enum class Color(val r: Int, val g: Int, val b: Int) {
     RED(255, 0,0),

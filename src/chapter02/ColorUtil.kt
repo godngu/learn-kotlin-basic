@@ -1,6 +1,6 @@
-package chap02
+package chapter02
 
-import chap02.Color.*
+import chapter02.Color.*
 
 fun getWarmth(color: Color) = when(color) {
     RED, ORANGE, YELLOW -> "warm"

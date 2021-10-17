@@ -1,4 +1,4 @@
-package chap02
+package chapter02
 
 interface Expr;
 class Num(val value: Int): Expr

@@ -1,4 +1,4 @@
-package chap02
+package chapter02
 
 fun main() {
     println(isLetter('q'))

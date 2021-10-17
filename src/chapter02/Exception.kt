@@ -1,4 +1,4 @@
-package chap02
+package chapter02
 
 import java.io.BufferedReader
 import java.io.StringReader
